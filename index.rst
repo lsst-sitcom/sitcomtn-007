@@ -271,7 +271,7 @@ We have the L1 and L2 TWE maps. Do we have data on L1L2 alignment??? Is there an
    :target: ../_images/lensesRaw.png
    :alt: The raw TWE maps as received from the camera team.
 
-   The raw TWE maps as received from the camera team (For L3, the units have been converted from meters to microns).
+   The raw TWE maps as received from the camera team (L1 and L2 data came in units of microns; L3 data came in units of meters and have been converted to microns).
 
 
 coordinate systems used for the TWE maps??? I am assuming the same coordinate systems have been used as for the filters, is that true???
